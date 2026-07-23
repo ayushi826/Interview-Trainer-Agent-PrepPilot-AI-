@@ -98,9 +98,9 @@ and `frontend/`, and fill in real values there. `.env` is git-ignored.
 
 - [x] Project scaffolding
 - [x] Authentication (Register / Login / JWT)
-- [ ] Resume upload + text extraction
-- [ ] Interview question generation (IBM Granite)
-- [ ] Answer evaluation (IBM Granite)
+- [x] Resume upload + text extraction
+- [x] Interview question generation (IBM Granite)
+- [x] Answer evaluation (IBM Granite)
 - [ ] Interview history
 - [ ] Dashboard stats
 
